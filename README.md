@@ -29,5 +29,5 @@ Los proyectos son los siguientes:
 4. **[DesignPatterns.Web](https://dev.azure.com/intelectix/Design%20Patterns/_git/DesignPatterns.Web).** Realiza lo mismo que Angular, pero por medio de una aplicación de Razor Pages. (En desarrollo aun...)
 
 # Getting Started
-Para empezar con el proyecto es necesario clonar los 4 proyectos mencionados arriba y ejecutarlos individualmente con `dotnet run`. También pueden ejecutarse desde Visual Studio, pero es importante que no se haga con IIS Express (los puertos son importantes).
+Para empezar con el proyecto es necesario clonar los 4 repositorios mencionados arriba y ejecutarlos individualmente con `dotnet run`. También pueden ejecutarse desde Visual Studio, pero es importante que no se haga con IIS Express (los puertos son importantes).
 
