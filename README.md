@@ -25,7 +25,7 @@ Los proyectos son los siguientes:
 
 1. **[DesignPatterns.IdentityServer](https://dev.azure.com/intelectix/Design%20Patterns/_git/DesignPatterns.IdentityServer).** Solución que implementa Identity Server 4, lo principal se puede aprender en este [quickstart](https://identityserver4.readthedocs.io/en/latest/quickstarts/0_overview.html). Está configurada para tener 2 clientes. **Angular** y **WebApp**.
 2. **[DesignPatterns.Api](https://dev.azure.com/intelectix/Design%20Patterns/_git/DesignPatterns.Api).** REST API que está protegida por IdentityServer. Sigue todos los principios de Clean Arquitecture siendo usada la plantilla de [Jason Taylor](https://jasontaylor.dev/clean-architecture-getting-started/).
-3. **[DesignPatterns.Angular](https://dev.azure.com/intelectix/Design%20Patterns/_git/DesignPatterns.Angular).** Aplicación Angular hosteada en asp.net core. Por medio de un OpenID en Javascript realiza los intercambios de autenticación con IdentityServer. Tiene un TODO List de ejemplo que API guarda.
+3. **[DesignPatterns.Angular](https://dev.azure.com/intelectix/Design%20Patterns/_git/DesignPatterns.Angular).** Aplicación Angular hosteada en asp.net core. Por medio de OpenID en Javascript realiza los intercambios de autenticación con IdentityServer. Tiene un TODO List de ejemplo que API gestiona.
 4. **[DesignPatterns.Web](https://dev.azure.com/intelectix/Design%20Patterns/_git/DesignPatterns.Web).** Realiza lo mismo que Angular, pero por medio de una aplicación de Razor Pages. (En desarrollo aun...)
 
 # Getting Started
