@@ -32,9 +32,9 @@ Los proyectos son los siguientes:
 Para empezar con el proyecto es necesario clonar los 4 repositorios mencionados arriba y ejecutarlos individualmente con `dotnet run`. También pueden ejecutarse desde Visual Studio, pero es importante que no se haga con IIS Express (los puertos son importantes).
 
 # Puertos
-Project  | HTTP | HTTPS
--------------------------
-Identity |50000 | 50001 |
-API      |50002 | 50003 |
-Angular  |50004 | 50005 |
-Web      |50006 | 50007 |
+|Project  | HTTP | HTTPS|
+|---------|------|-------|
+|Identity |50000 | 50001 |
+|API      |50002 | 50003 |
+|Angular  |50004 | 50005 |
+|Web      |50006 | 50007 |
