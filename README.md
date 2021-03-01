@@ -1,4 +1,4 @@
-# Introduction 
+## ⭐ Design Patterns
 DesignPatterns es una colección de proyectos que muestran como manejar los siguientes conceptos:
 
 - Clean Arquitecture usando las siguientes tecnologias:
@@ -24,14 +24,14 @@ DesignPatterns es una colección de proyectos que muestran como manejar los sigu
 Los proyectos son los siguientes:
 
 1. **[DesignPatterns.IdentityServer](https://github.com/isaacOjeda/DesignPatterns.IdentityServer).** Solución que implementa Identity Server 4, lo principal se puede aprender en este [quickstart](https://identityserver4.readthedocs.io/en/latest/quickstarts/0_overview.html). Está configurada para tener 2 clientes. **Angular** y **WebApp**.
-2. **[DesignPatterns.Api](https://github.com/isaacOjeda/DesignPatterns.Api).** REST API que está protegida por IdentityServer. Sigue todos los principios de Clean Arquitecture siendo usada la plantilla de [Jason Taylor](https://jasontaylor.dev/clean-architecture-getting-started/).
+2. **[DesignPatterns.Api](https://github.com/isaacOjeda/DesignPatterns.Api).** REST API que está protegida por IdentityServer. Sigue todos los principios de Clean Architecture siendo usada la plantilla de [Jason Taylor](https://jasontaylor.dev/clean-architecture-getting-started/).
 3. **[DesignPatterns.Angular](https://github.com/isaacOjeda/DesignPatterns.Angular).** Aplicación Angular hosteada en asp.net core. Por medio de OpenID en Javascript realiza los intercambios de autenticación con IdentityServer. Tiene un TODO List de ejemplo que API gestiona.
 4. **[DesignPatterns.Web](https://github.com/isaacOjeda/DesignPatterns.Web).** Realiza lo mismo que Angular, pero por medio de una aplicación de Razor Pages. (En desarrollo aun...)
 
-# Getting Started
+## 🏁 Getting Started
 Para empezar con el proyecto es necesario clonar los 4 repositorios mencionados arriba y ejecutarlos individualmente con `dotnet run`. También pueden ejecutarse desde Visual Studio, pero es importante que no se haga con IIS Express (los puertos son importantes).
 
-# Puertos
+## 🌐 Puertos
 |Project  | HTTP | HTTPS|
 |---------|------|-------|
 |Identity |50000 | 50001 |
