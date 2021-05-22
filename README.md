@@ -2,9 +2,9 @@
 DesignPatterns es una colección de proyectos que muestran como manejar los siguientes conceptos:
 
 - Clean Arquitecture usando las siguientes tecnologias:
-    - .NET Core 3.1
-    - ASP .NET Core 3.1
-    - Entity Framework Core 3.1
+    - .NET 5
+    - ASP.NET Core 5
+    - Entity Framework Core 5
     - Angular 9
     - MediatR
     - AutoMapper
